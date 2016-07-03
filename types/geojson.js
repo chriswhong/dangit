@@ -20,6 +20,8 @@ module.exports = {
       rowText = rowText.replace(/(\r\n|\n|\r)/gm," "); //get rid of line breaks in rowText
       //TODO get rid of spaces too, but not spaces in the strings.
 
+      //TODO add some logic to make sure UIDs are unique
+
       if (i < rows.length - 1) {
         rowText += ','
       } 

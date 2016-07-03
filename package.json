@@ -1,0 +1,19 @@
+{
+  "name": "dangit",
+  "version": "1.0.0",
+  "description": "DAta Nudged into GIT - File-based datasets that use git for version control of individual records",
+  "main": "dangit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriswhong/dangit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chriswhong/dangit/issues"
+  },
+  "homepage": "https://github.com/chriswhong/dangit#readme"
+}
