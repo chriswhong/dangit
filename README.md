@@ -39,4 +39,5 @@ You can participate in our early experimentation by adding or editing (or deleti
 ##Commit Messages
 Commit messages should include as much info as possible about the rows that were edited/added/removed. 
 
-#UI
+##Pull Requests
+Pull requests on dataset repos should include a successful build of the data.  (how should we validate this)
