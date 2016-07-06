@@ -2,7 +2,7 @@
 DAta Nudged into GIT - File-based datasets that use git for version control of individual records
 
 #Overview 
-DANGIT is an experimental way to do version control on datasets.  By storing each row/record of a dataset as a file in a github repository, it is possible to easily track changes and allow for anyone to submit changes using the same worflows as open source software development. The files for the individual rows/records are then built into a single dataset file. [Here's the gist](https://gist.github.com/chriswhong/8efd249a58abfa8b39b68bca198e1072) with a braindump for the idea.
+DANGIT is an experimental way to do version control on datasets.  By storing each row/record of a dataset as a file in a github repository, it is possible to easily track changes and allow for anyone (yes, anyone... the feedback loop is open!) to submit changes using the same workflows as open source software development.   The files for the individual rows/records are then built into a single dataset file. [Here's the gist](https://gist.github.com/chriswhong/8efd249a58abfa8b39b68bca198e1072) with a braindump for the idea.
 
 In the future, a simple UI with Github Single Sign-on would allow non-technical users to perform the entire fork/edit/build/pull request workflow without using the command line or editing text files.  
 
